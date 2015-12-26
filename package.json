@@ -8,10 +8,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:facebook/rebound-js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/facebook/rebound-js/issues"
+    "url": "git@github.com:pilotcreative/rebound.git"
   },
   "keywords": [
     "facebook",
